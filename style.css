@@ -9,8 +9,8 @@ body{
     front-family: 'Poppins';
 }
 .cabecalho {
-    background-color: #ff000000;
-    color: #00b7ff10;
+    background-color: #f30505fa;
+    color: #10a8e410;
     display:flex;
     justify-content:space-around;
     align-items:centerr;
